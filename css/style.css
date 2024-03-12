@@ -4,6 +4,7 @@
 
 .o-img {
     filter: brightness(55%);
+    size: 40%;
 }
 
 .card-lugar {
